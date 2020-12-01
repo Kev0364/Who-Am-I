@@ -1,5 +1,5 @@
 # Who-Am-I
-Who am I project
+First HTML with inline CSS Website Project
 
 ### 10 Word summary
 Coding a HTML website about me, Kevin Deng

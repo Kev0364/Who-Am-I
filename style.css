@@ -22,15 +22,15 @@ cursor: pointer;
 font-size: 1vw
 }
 a:link{
-color: #0A66C8;
+color: #FFFFFF;
 text-decoration: none;
 }
 a:visited{
-color: #0A66C8;
+color: #FFFFFF;
 text-decoration: none;
 }
 a:hover{
-color: #0A66C8;
+color: #FFFFFF;
 font-weight: bold;
 }
 .logo img{
@@ -50,22 +50,22 @@ float: left;
 left: 4.2vw;
 }
 .main-text h1{
-color: #0A66C8;
+color: #FFFFFF;
 font-size: 3vw;
 margin-bottom: 1vw
 }
 .main-text ul{
-color: #0A66C8;
+color: #FFFFFF;
 font-size: 1vw;
 margin-left: 1vw;
 }
 .main-text p{
-color: #0A66C8;
+color: #FFFFFF;
 font-size: 1vw;
 margin-left: 1vw;
 }
 .main-text h3{
-color: #0A66C8;
+color: #FFFFFF;
 font-size: 1.5vw;
 }
 footer {
@@ -74,6 +74,6 @@ margin-left: 4.2vw;
 padding-bottom: 1vw;
 }
 footer p {
-color: #0A66C8;
+color: #FFFFFF;
 font-size: 1vw;
 }
