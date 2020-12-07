@@ -22,15 +22,15 @@ height: 100%
   font-size: 1vw
 }
 a:link{
-  color: #78C1F3;
+  color: #FFFFFF;
   text-decoration: none;
 }
 a:visited{
-  color: #78C1F3;
+  color: #FFFFFF;
   text-decoration: none;
 }
 a:hover{
-  color: #78C1F3;
+  color: #FFFFFF;
   font-weight: bold;
 }
 .main{
@@ -44,22 +44,22 @@ a:hover{
   left: 4.2vw;
 }
 .main-text h1{
-  color: #78C1F3;
+  color: #FFFFFF;
   font-size: 3vw;
   margin-bottom: 1vw
 }
 .main-text ul{
-  color: #D1ECFF;
+  color: #FFFFFF;
   font-size: 1vw;
   margin-left: 1vw;
 }
 .main-text p{
-  color: #D1ECFF;
+  color: #FFFFFF;
   font-size: 1vw;
   margin-left: 1vw;
 }
 .main-text h3{
-  color: #78C1F3;
+  color: #FFFFFF;
   font-size: 1.5vw;
 }
 footer {
@@ -68,6 +68,6 @@ footer {
   padding-bottom: 1vw;
 }
 footer p {
-  color: #D1ECFF;
+  color: #FFFFFF;
   font-size: 1vw;
 }
