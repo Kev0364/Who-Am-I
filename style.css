@@ -47,20 +47,32 @@ a:hover{
   color: #FFFFFF;
   font-size: 3vw;
   margin-bottom: 1vw
+  width: 50%;
+  float: left;
+  padding: 15px;
 }
 .main-text ul{
   color: #FFFFFF;
   font-size: 1vw;
   margin-left: 1vw;
+  width: 50%;
+  float: left;
+  padding: 15px;
 }
 .main-text p{
   color: #FFFFFF;
   font-size: 1vw;
   margin-left: 1vw;
+  width: 50%;
+  float: left;
+  padding: 15px;
 }
 .main-text h3{
   color: #FFFFFF;
   font-size: 1.5vw;
+  width: 50%;
+  float: left;
+  padding: 15px;
 }
 footer {
   margin-top: 45vw;
